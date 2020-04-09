@@ -1,7 +1,7 @@
-magic_exit_number = 10
+count= 10
 
-while magic_exit_number  >=1 do
-  puts " #{magic_exit_number}" 
+while count  >=1 do
+  puts " #{count}" 
   count -=1
 end
  puts "Happy New Year!"
